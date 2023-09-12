@@ -1,3 +1,8 @@
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif"/>
+</div>
+
 ### Hi, I'm Tomomi 👋👩🏻‍💻
 
 I started my journey in software development 2 years ago. Through a series of online courses, self-studying and the help of a private tutor, I've gotten a grasp of modern frontend technologies. I have a background in teaching and management, and can speak both English and Japanese. I'm a passionate person that likes challenges and is always looking for ways to work together with other people to improve other people's lives.
