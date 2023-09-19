@@ -1,6 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif"/>
+  <p><sub>Image by <a href="https://www.baretreemedia.com/">Bare Tree Media</a></sub></p>
 </div>
 
 ### Hi, I'm Tomomi 👋👩🏻‍💻
